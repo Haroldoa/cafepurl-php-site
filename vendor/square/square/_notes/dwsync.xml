@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitattributes" server="31.220.108.218/public_html/" local="133229936143149945" remote="133185915000000000" Dst="1" />
+<file name=".gitignore" server="31.220.108.218/public_html/" local="133229936146767032" remote="133185915000000000" Dst="1" />
+<file name="CONTRIBUTING.md" server="31.220.108.218/public_html/" local="133229936150520173" remote="133185915000000000" Dst="1" />
+<file name="CHANGELOG.md" server="31.220.108.218/public_html/" local="133229936151027441" remote="133185915000000000" Dst="1" />
+<file name="LICENSE" server="31.220.108.218/public_html/" local="133229936151898931" remote="133185915000000000" Dst="1" />
+<file name="README.md" server="31.220.108.218/public_html/" local="133229936153786486" remote="133185915000000000" Dst="1" />
+<file name="composer.json" server="31.220.108.218/public_html/" local="133229936154128530" remote="133185915000000000" Dst="1" />
+<file name="example-autoload.php" server="31.220.108.218/public_html/" local="133229937366792206" remote="133185915000000000" Dst="1" />
+<file name="phpcs-ruleset.xml" server="31.220.108.218/public_html/" local="133229937367876116" remote="133185915000000000" Dst="1" />
+<file name="phpunit.xml" server="31.220.108.218/public_html/" local="133229937368594004" remote="133185915000000000" Dst="1" />
+</dwsync>

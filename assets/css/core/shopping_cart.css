@@ -1,0 +1,44 @@
+/* body {
+    padding-top: 80px;
+  }
+  
+.show-cart li {
+  display: flex;
+}
+.card {
+  margin-bottom: 20px;
+}
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  align-self: center; 
+}*/
+
+table.show-cart>tr>td{
+  padding: 2px;
+}
+
+.input-group>.item-count{
+  flex: initial;
+  width: 55px;
+  text-align: center;
+}
+.input-group{
+  justify-content: center;
+}
+.delete-item{
+  display:none;
+}
+@media (min-width: 720px) {
+  .input-group{
+    flex-wrap: nowrap;
+  }
+}
+.card-img-top{
+  max-height: 40vh;
+  max-width: 40vw;
+}
+.thumbnail{
+  max-height: 10vh;
+  max-width: 10vw;
+}

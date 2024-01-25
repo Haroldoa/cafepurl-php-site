@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Array.php" server="31.220.108.218/public_html/" local="133229936051446472" remote="133210469400000000" Dst="1" />
+<file name="Broken.php" server="31.220.108.218/public_html/" local="133229936052277234" remote="133210469400000000" Dst="1" />
+<file name="ClassWithCtor.php" server="31.220.108.218/public_html/" local="133229936053876825" remote="133210469400000000" Dst="1" />
+<file name="ComplexClassWithCtor.php" server="31.220.108.218/public_html/" local="133229936053866785" remote="133210469400000000" Dst="1" />
+<file name="DependencyInjector.php" server="31.220.108.218/public_html/" local="133229936055393572" remote="133210469400000000" Dst="1" />
+<file name="DerivedClass.php" server="31.220.108.218/public_html/" local="133229936056108695" remote="133210469400000000" Dst="1" />
+<file name="DerivedClass2.php" server="31.220.108.218/public_html/" local="133229936056933694" remote="133210469400000000" Dst="1" />
+<file name="FactoryMethod.php" server="31.220.108.218/public_html/" local="133229936058456287" remote="133210469400000000" Dst="1" />
+<file name="FactoryMethodWithError.php" server="31.220.108.218/public_html/" local="133229936058516285" remote="133210469400000000" Dst="1" />
+<file name="JsonMapperCommentsDiscardedException.php" server="31.220.108.218/public_html/" local="133229936059305125" remote="133210469400000000" Dst="1" />
+<file name="Logger.php" server="31.220.108.218/public_html/" local="133229936060770022" remote="133210469400000000" Dst="1" />
+<file name="MapsWithSetters.php" server="31.220.108.218/public_html/" local="133229936061535972" remote="133210469400000000" Dst="1" />
+<file name="Php7TypedClass.php" server="31.220.108.218/public_html/" local="133229936062315972" remote="133210469400000000" Dst="1" />
+<file name="Php7_1TypedClass.php" server="31.220.108.218/public_html/" local="133229936064005890" remote="133210469400000000" Dst="1" />
+<file name="PrivateWithSetter.php" server="31.220.108.218/public_html/" local="133229936064735476" remote="133210469400000000" Dst="1" />
+<file name="Simple.php" server="31.220.108.218/public_html/" local="133229936065508215" remote="133210469400000000" Dst="1" />
+<file name="SimpleBase.php" server="31.220.108.218/public_html/" local="133229936067069328" remote="133210469400000000" Dst="1" />
+<file name="SimpleBaseWithMissingDiscrimType.php" server="31.220.108.218/public_html/" local="133229936067059335" remote="133210469400000000" Dst="1" />
+<file name="ValueObject.php" server="31.220.108.218/public_html/" local="133229936068590789" remote="133210469400000000" Dst="1" />
+</dwsync>

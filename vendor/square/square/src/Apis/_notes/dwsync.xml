@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApplePayApi.php" server="31.220.108.218/public_html/" local="133229937371337462" remote="133185915000000000" Dst="1" />
+<file name="BaseApi.php" server="31.220.108.218/public_html/" local="133229937372044671" remote="133185915000000000" Dst="1" />
+<file name="BankAccountsApi.php" server="31.220.108.218/public_html/" local="133229937372184827" remote="133185915000000000" Dst="1" />
+<file name="BookingCustomAttributesApi.php" server="31.220.108.218/public_html/" local="133229937374886708" remote="133185915000000000" Dst="1" />
+<file name="BookingsApi.php" server="31.220.108.218/public_html/" local="133229937374581720" remote="133185915000000000" Dst="1" />
+<file name="CardsApi.php" server="31.220.108.218/public_html/" local="133229937374991702" remote="133185915000000000" Dst="1" />
+<file name="CashDrawersApi.php" server="31.220.108.218/public_html/" local="133229937377205685" remote="133185915000000000" Dst="1" />
+<file name="CatalogApi.php" server="31.220.108.218/public_html/" local="133229937378053950" remote="133185915000000000" Dst="1" />
+<file name="CheckoutApi.php" server="31.220.108.218/public_html/" local="133229937377968862" remote="133185915000000000" Dst="1" />
+<file name="CustomerGroupsApi.php" server="31.220.108.218/public_html/" local="133229937380515986" remote="133185915000000000" Dst="1" />
+<file name="CustomerCustomAttributesApi.php" server="31.220.108.218/public_html/" local="133229937380190889" remote="133185915000000000" Dst="1" />
+<file name="CustomerSegmentsApi.php" server="31.220.108.218/public_html/" local="133229937381147522" remote="133185915000000000" Dst="1" />
+<file name="CustomersApi.php" server="31.220.108.218/public_html/" local="133229937382660207" remote="133185915000000000" Dst="1" />
+<file name="DevicesApi.php" server="31.220.108.218/public_html/" local="133229937383519403" remote="133185915000000000" Dst="1" />
+<file name="DisputesApi.php" server="31.220.108.218/public_html/" local="133229937384171283" remote="133185915000000000" Dst="1" />
+<file name="EmployeesApi.php" server="31.220.108.218/public_html/" local="133229937384938636" remote="133185915000000000" Dst="1" />
+<file name="GiftCardActivitiesApi.php" server="31.220.108.218/public_html/" local="133229937386480615" remote="133185915000000000" Dst="1" />
+<file name="GiftCardsApi.php" server="31.220.108.218/public_html/" local="133229937387247482" remote="133185915000000000" Dst="1" />
+<file name="InventoryApi.php" server="31.220.108.218/public_html/" local="133229937388821499" remote="133185915000000000" Dst="1" />
+<file name="InvoicesApi.php" server="31.220.108.218/public_html/" local="133229937389612601" remote="133185915000000000" Dst="1" />
+<file name="LaborApi.php" server="31.220.108.218/public_html/" local="133229937391106456" remote="133185915000000000" Dst="1" />
+<file name="LocationsApi.php" server="31.220.108.218/public_html/" local="133229937392918629" remote="133185915000000000" Dst="1" />
+<file name="LocationCustomAttributesApi.php" server="31.220.108.218/public_html/" local="133229937392773599" remote="133185915000000000" Dst="1" />
+<file name="LoyaltyApi.php" server="31.220.108.218/public_html/" local="133229937394590098" remote="133185915000000000" Dst="1" />
+<file name="MerchantsApi.php" server="31.220.108.218/public_html/" local="133229937395376210" remote="133185915000000000" Dst="1" />
+<file name="MobileAuthorizationApi.php" server="31.220.108.218/public_html/" local="133229937396244009" remote="133185915000000000" Dst="1" />
+<file name="OAuthApi.php" server="31.220.108.218/public_html/" local="133229937397879413" remote="133185915000000000" Dst="1" />
+<file name="OrdersApi.php" server="31.220.108.218/public_html/" local="133229937399351917" remote="133185915000000000" Dst="1" />
+<file name="OrderCustomAttributesApi.php" server="31.220.108.218/public_html/" local="133229937399341876" remote="133185915000000000" Dst="1" />
+<file name="PaymentsApi.php" server="31.220.108.218/public_html/" local="133229937400826197" remote="133185915000000000" Dst="1" />
+<file name="PayoutsApi.php" server="31.220.108.218/public_html/" local="133229937401621887" remote="133185915000000000" Dst="1" />
+<file name="RefundsApi.php" server="31.220.108.218/public_html/" local="133229937402432226" remote="133185915000000000" Dst="1" />
+<file name="SitesApi.php" server="31.220.108.218/public_html/" local="133229937403973842" remote="133185915000000000" Dst="1" />
+<file name="SnippetsApi.php" server="31.220.108.218/public_html/" local="133229937404758768" remote="133185915000000000" Dst="1" />
+<file name="SubscriptionsApi.php" server="31.220.108.218/public_html/" local="133229937405548884" remote="133185915000000000" Dst="1" />
+<file name="TeamApi.php" server="31.220.108.218/public_html/" local="133229937407089693" remote="133185915000000000" Dst="1" />
+<file name="TerminalApi.php" server="31.220.108.218/public_html/" local="133229937407827844" remote="133185915000000000" Dst="1" />
+<file name="TransactionsApi.php" server="31.220.108.218/public_html/" local="133229937408514198" remote="133185915000000000" Dst="1" />
+<file name="V1TransactionsApi.php" server="31.220.108.218/public_html/" local="133229937410993435" remote="133185915000000000" Dst="1" />
+<file name="VendorsApi.php" server="31.220.108.218/public_html/" local="133229937410773477" remote="133185915000000000" Dst="1" />
+<file name="WebhookSubscriptionsApi.php" server="31.220.108.218/public_html/" local="133229937410993435" remote="133185915000000000" Dst="1" />
+</dwsync>
